@@ -1,0 +1,8 @@
+﻿  Method.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+E:\programs\MSC_Code\MSC_Code\Method.cpp(88,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\programs\MSC_Code\MSC_Code\Method.cpp(214,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\programs\MSC_Code\MSC_Code\Method.cpp(302,41): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  MSC_Code.cpp
+  正在生成代码...
+  MSC_Code.vcxproj -> E:\programs\MSC_Code\x64\Debug\MSC_Code.exe
